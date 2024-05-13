@@ -26,7 +26,4 @@ public class Aluno {
         System.out.println(alunol.getIdade());
                 
     }
-    public int getIdade (){
-    
-return idade;
-    }
+   
